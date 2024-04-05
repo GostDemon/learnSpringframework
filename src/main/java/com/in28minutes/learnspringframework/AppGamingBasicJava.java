@@ -8,10 +8,10 @@ import com.in28minutes.learnspringframework.game.PacManGame;
 public class AppGamingBasicJava {
     public static void main(String[] args) {
 
-         var game1 = new MarioGame();
+         /*var game1 = new MarioGame();
          var game2 = new ContraGame();
          var game3 = new PacManGame();
          var gameRunner = new GameRummer(game3);
-          gameRunner.run();
+          gameRunner.run();*/
     }
 }
